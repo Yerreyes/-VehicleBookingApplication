@@ -1,0 +1,150 @@
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll

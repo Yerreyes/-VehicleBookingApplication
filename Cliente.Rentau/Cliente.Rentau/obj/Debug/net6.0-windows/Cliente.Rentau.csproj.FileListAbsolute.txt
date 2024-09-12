@@ -1,0 +1,232 @@
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.menu.resources
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyecto\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.menu.resources
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.menu.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.menu.resources
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\actual 11\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.menu.resources
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\actual 11 - copia\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.MenuForm.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.MenuForm.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.ConsultarReservaForm.resources
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.MenuForm.resources
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\martes 11 06am\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.ConsultarReservaForm.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.MenuForm.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.exe
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.deps.json
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.agregar_reserva.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.ConsultarReservaForm.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.MenuForm.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.csproj.CopyComplete
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\refint\Cliente.Rentau.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\Cliente.Rentau.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Cliente.Rentau\Cliente.Rentau\obj\Debug\net6.0-windows\ref\Cliente.Rentau.dll

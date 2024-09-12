@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ConsultarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarCobertura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarSucursales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarTipoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarAsociacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menuRegistroDeSucursales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroCobertura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroVehiculoSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroSucursales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroTipoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

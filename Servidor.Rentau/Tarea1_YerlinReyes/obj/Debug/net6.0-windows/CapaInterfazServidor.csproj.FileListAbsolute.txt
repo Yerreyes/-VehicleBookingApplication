@@ -1,0 +1,450 @@
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Sobre el que estoy\Proyecto\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\Sobre el que estoy\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\Sobre el que estoy, voy a cambiar lo de sucursalVehiculo - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\actual 11\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\actual 11 - copia\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\trabajando\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\trabajando sabado 1018\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\martes 11 06am\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.exe
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll.config
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.deps.json
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.Properties.Resources.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.csproj.CopyComplete
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\CapaInterfazServidor.dll
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.pdb
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\CapaInterfazServidor.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyectos\ProyectoFinal_ReyesMonteroYerlin\ProyectoFinal_ReyesMonteroYerlin\Servidor.Rentau\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\CapaInterfazServidor.dll

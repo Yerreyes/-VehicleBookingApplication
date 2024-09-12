@@ -1,0 +1,328 @@
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\source\repos\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.menuRegistroDeSucursales.resources
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuRegistroSucursales.resources
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\pruebas\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuRegistroSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuRegistroSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes - copia - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Tarea1_YerlinReyes. Trabajajndo - copia\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.Properties.Resources.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\Trabajos de Programación Avanzada\copias primer tarea\Tarea1YerlinReyesi\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.Properties.Resources.resources
+C:\Users\User\Desktop\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.Properties.Resources.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\22_alas_9am\Tarea1YerlinReyesi\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.Properties.Resources.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.exe
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.deps.json
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.runtimeconfig.json
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\Microsoft.OData.Edm.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarAsociacion.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarClientes.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarCobertura.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarSucursales.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarTipoVehiculo.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.ConsultarVehiculos.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.MenuPrincipal.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.Properties.Resources.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroClientes.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroCobertura.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroSucursales.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroTipoVehiculo.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculos.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.RegistroVehiculoSucursal.resources
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.csproj.CopyComplete
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\refint\Tarea1_YerlinReyes.dll
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.pdb
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\Tarea1_YerlinReyes.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyecto FInal progra\ReyesMonterYerlin_Tarea2_830\ReyesMonterYerlin_Tarea2_830\Tarea1_YerlinReyes\obj\Debug\net6.0-windows\ref\Tarea1_YerlinReyes.dll
