@@ -1,6 +1,6 @@
 ﻿# Vehicle Booking Application
 
-This project is a desktop application developed in C# as part of the Advanced Programming course. The application simulates a vehicle booking system for different branches, using a client-server architecture where multiple clients connect to a centralized server to make and manage reservations. I made a conection with database which store all the information relevant with the sucursals and the clients.
+This project is a desktop application developed in C# with Windows Forms, as part of the Advanced Programming course. The application simulates a vehicle booking system for different branches, using a client-server architecture where multiple clients connect to a centralized server to make and manage reservations. I made a conection with database which store all the information relevant with the sucursals and the clients.
 
 **Main Features:**
 - **Client-Server Architecture:** The application is divided into a client part and a server part. Clients connect to the server to perform queries and operations on the centralized database.
